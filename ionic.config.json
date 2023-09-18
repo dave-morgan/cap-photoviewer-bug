@@ -1,0 +1,7 @@
+{
+  "name": "photoviewer-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
